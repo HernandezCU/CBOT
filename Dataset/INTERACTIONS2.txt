@@ -88,179 +88,137 @@ Plato: XXXYYYZZZ
 Socrates: God would seem to indicate to us and not allow us to doubt that these beautiful poems are not human, or the work of man, but divine and the work of God; and that the poets are only the interpreters of the Gods...
 Plato: XXXYYYZZZ
 Socrates: I do nothing but go about persuading you all, old and young alike, not to take thought for your persons or your properties, but and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue comes money and every other good of man...
-Plato: XXXYYYZZZ
+Plato: What is uncertain?
 Socrates: Neither in war nor yet at law ought any man to use every way of escaping death. For often in battle there is no doubt that if a man will throw away his arms, and fall on his knees before his pursuers, he may escape death; and in other dangers there are other ways of escaping death, if a man is willing to say and do anything. The difficulty, my friends, is not in avoiding death, but in avoiding unrighteousness; for that runs faster than death.
-Plato: XXXYYYZZZ
+Plato: Why do we fear death and should we fear death?
 Socrates: No one knows whether death may not be the greatest of all blessings for a man, yet men fear it as if they knew it was the greatest of evils.
-Plato: XXXYYYZZZ
+Plato: What is wisdom?
 Socrates: Wisdom is knowing you know nothing
-Plato: XXXYYYZZZ
+Plato: What do you know?
 Socrates: I know nothing except the fact of my ignorance.
-Plato: XXXYYYZZZ
+Plato: What is the best way to stay out of trouble?
 Socrates: The law presumably says that it is finest to keep as quiet as possible in misfortunes and not be irritated, since the good and bad in such things aren't plain, nor does taking it hard get one anywhere, not are any of the human things worthy of great seriousness.... One must accept the fall of the dice and settle one's affairs accordingly-- in whatever way argument declares would be best. One must not behave like children who have stumbled and who hold on to the hurt place and spend their time in crying out; rather one must always habituate the soul to turn as quickly as possible to curing and setting aright what has fallen and is sick, doing away with lament by medicine.
-Plato: XXXYYYZZZ
-Socrates: All I know is that I know nothing.
-Plato: XXXYYYZZZ
-Socrates: How many things can I do without?
-Plato: XXXYYYZZZ
+Plato: Is anyone really qualified to be anything?
 Socrates: Nobody is qualified to become a statesman who is entirely ignorant of the problem of wheat.
-Plato: XXXYYYZZZ
+Plato: What is the best way to embrace change?
 Socrates: The secret of change is to focus all of your energy not on fighting the old, but on building the new.
-Plato: XXXYYYZZZ
+Plato: Are those who fight for justice actually just?
 Socrates: A man who really fights for justice must lead a private, not a public, life if he is to survive for even a short time.
-Plato: XXXYYYZZZ
-Socrates: And a thing is not seen because it is visible, but	conversely, visible because it is seen; nor is a thing led because	it is in the state of being led, or carried because it is in the	state of being carried, but the converse of this. And now I think, Euthyphro, that my meaning will be intelligible; and my	meaning is, that any state of action or passion implies previous	action or passion. It does not become because it is becoming,	but it is in a state of becoming because it becomes; neither	does it suffer because it is in a state of suffering, but it is in a	state of suffering because it suffers. Do you not agree?
-Plato: XXXYYYZZZ
+Plato: Is seeing believing or is believing seeing?
+Socrates: And a thing is not seen because it is visible, but conversely, visible because it is seen; nor is a thing led because it is in the state of being led, or carried because it is in the state of being carried, but the converse of this. And now I think, Euthyphro, that my meaning will be intelligible; and my	meaning is, that any state of action or passion implies previous action or passion. It does not become because it is becoming, but it is in a state of becoming because it becomes; neither	does it suffer because it is in a state of suffering, but it is in a state of suffering because it suffers. Do you not agree?
+Plato: What is certain in life?
 Socrates: One thing only I know, and that is that I know nothing.
-Plato: XXXYYYZZZ
+Plato: What is the most beautiful form of wisdom?
 Socrates: By far the greatest and most admirable form of wisdom is that needed to plan and beautify cities and human communities.
-Plato: XXXYYYZZZ
+Plato: How important is perspective?
 Socrates: And the same things look bent and straight when seen in water and out of it, and also both concave and convex, due to the sight’s being mislead by the colors, and every sort of confusion of this kind is plainly in our soul. And, then, it is because they take advantage of this affection in our nature that shadow painting, and puppeteering, and many other tricks of the kind fall nothing short of wizardry.
-Plato: XXXYYYZZZ
+Plato: Are there things worse than death?
 Socrates: It is not difficult to avoid death, gentlemen of the jury; it is much more difficult to avoid wickedness, for it runs faster than death.
-Plato: XXXYYYZZZ
+Plato: Does learning pay off in the long run?
 Socrates: Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.
-Plato: XXXYYYZZZ
+Plato: Is the fear of death justified?
 Socrates: To fear death, gentlemen, is no other than to think oneself wise when one is not, to think one knows what one does not know.  No one knows whether death may not be the greatest of all blessings for a man, yet men fear it as if they knew that it is the greatest of evils.  And surely it is the most blameworthy ignorance to believe that one knows what one does not know.  It is perhaps on this point and in this respect, gentlemen, that I differ from the majority of men, and if I were to claim that I am wiser than anyone in anything, it would be in this, that, as I have no adequate knowledge of things in the underworld, so I do not think I have.  I do know, however, that it is wicked and shameful to do wrong, to disobey one's superior, be he god or man.  I shall never fear or avoid things of which I do not know, whether they may not be good rather than things that I know to be bad.
-Plato: XXXYYYZZZ
+Plato: Does wealth come with strings attached?
 Socrates: wealth does not bring goodness, but goodness brings wealth and every other blessing, both to the individual and to the state
-Plato: XXXYYYZZZ
-Socrates: Do you feel no compunction, Socrates, at having followed a line of action which puts you in danger of the death penalty?'I might fairly reply to him, 'You are mistaken, my friend, if you think that a man who is worth anything ought to spend his time weighing up the prospects of life and death. He has only one thing to consider in performing any action--that is, whether he is acting rightly or wrongly, like a good man or a bad one.
-Plato: XXXYYYZZZ
+Plato: How are people different?
 Socrates: Worthless people live only to eat and drink; people of worth eat and drink only to live.
-Plato: XXXYYYZZZ
+Plato: How can we make sure we are seeking wisdom correctly?
 Socrates: How can you wonder your travels do you no good, when you carry yourself around with you?
-Plato: XXXYYYZZZ
+Plato: Why do we commit certain actions?
 Socrates: I don't know why I did it, I don't know why I enjoyed it, and I don't know why I'll do it again. 
-Plato: XXXYYYZZZ
+Plato: Is clarity when speaking important?
 Socrates: Everything is plainer when spoken than when unspoken.
-Plato: XXXYYYZZZ
-Socrates: Programming is not about what you know. It's about what you can figure out.
-Plato: XXXYYYZZZ
+Plato: Why is just living not enough?
 Socrates: The really important thing is not live, but to live well.
-Plato: XXXYYYZZZ
-Socrates: The answer I gave myself and the oracle was that it was to my advantage to be as I am.
-Plato: XXXYYYZZZ
+Plato: Is dedication to a single thing the key to success?
 Socrates: Each individual can only do one thing well. He can't do lots of things. If he tries, he will be jack of all trades, and master of none.
-Plato: XXXYYYZZZ
+Plato: How are appearences deceiving?
 Socrates: For this fear of death is indeed the pretense of wisdom, and not real wisdom, being the appearance of knowing the unknown; since no one knows whether death, which they in their fear apprehend to be the greatest evil, may not be the greatest good. Is there not here conceit of knowledge, which is a disgraceful sort of ignorance? And this is the point in which, as I think, I am superior to men in general, and in which I might perhaps fancy myself wiser than other men, - that whereas I know but little of the world below, I do not suppose that I know: but I do know that injustice and disobedience to a better, whether God or man, is evil and dishonorable, and I will never fear or avoid a possible good rather than a certain evil.
-Plato: XXXYYYZZZ
-Socrates: What I do not know, I do not think I know.
-Plato: XXXYYYZZZ
+Plato: Is the fear of death realted to the fear of the unknown?
 Socrates: To fear death, gentlemen, is no other then to think oneself wise when one is not, to think one knows what one does not know.
-Plato: XXXYYYZZZ
+Plato: What is true existence?
 Socrates: I thought that as I had failed in the contemplation of true existence, I ought to be careful that I did not lose the eye of my soul; as people may injure their bodily eye by observing and gazing on the sun during an eclipse, unless they take the precaution of looking at the image reflected in the water, or in some similar medium. ...I was afraid that my soul might be blinded altogether if I looked at things with my eyes or tried by the help of my senses to apprehend them. And I thought that I had better had recourse to ideas, and seek in them truth in existence. I dare to say that the simile is not perfect--for I am far from admitting that he who contemplates existence through the medium of ideas, sees them only "through a glass darkly," any more than he who sees them in their working and effects.
-Plato: XXXYYYZZZ
+Plato: Is loving and fearing god the most important. 
 Socrates: Athenian men, I respect and love you,but I shall obey the god rather than you...
-Plato: XXXYYYZZZ
+Plato: How is wisdom found?
 Socrates: True wisdom comes to each of us when we realize how little we understand about life, ourselves, & the world around us.
-Plato: XXXYYYZZZ
+Plato: What is honor?
 Socrates: the great honor in the world is to be what we pretend to be
-Plato: XXXYYYZZZ
+Plato: What is the key to get close to God?
 Socrates: Having the fewest wants, I am nearest to the gods.
-Plato: XXXYYYZZZ
+Plato: Are death and life really that different?
 Socrates: The hour of departure has arrived, and we go our ways - I to die, and you to live. Which is better only god knows.
-Plato: XXXYYYZZZ
-Socrates: Is there anyone to whom you entrust a greater number of serious matters than your wife? And is there anyone with whom you have fewer conversations?
-Plato: XXXYYYZZZ
-Socrates: As for me, all I know is that I know nothing.
-Plato: XXXYYYZZZ
-Socrates: I pity those reviewers above, and people like them, who ridicule authors like R.A. Boulay and other proponents of similar Ancient Astronaut theories, simply for putting forth so many interesting questions (because that's really what he often throughout openly admits is all he does does) in light of fascinating and thought-provoking references which are all from copious sources.Some people will perhaps only read the cover and introduction and dismiss it as soon as any little bit of information flies in the face of their beliefs or normalcy biases. Some of those people, I'm sure, are some of the ones who reviewed this book so negatively without any constructive criticism or plausible rebuttal. It's sad to see how programmed and indoctrinated the vast majority of humanity has become to the ills of dogma, indoctrination, unverified status quos and basic ignorance; not to mention the laziness and conformity that results in such acquiescence and lack of critical thinking or lack of information gathering to confirm or debunk something. Too many people just take what's spoon fed to them all their lives and settle for it unquestioningly. For those people I like to offer a great Einstein quote and one of my personal favorites and that is:"Condemnation without investigation is the highest form of ignorance"I found this book to be a very interesting gathering of information and collection of obscure and/or remote antiquated information, i.e. biblical, sacred, mythological and otherwise, that we were not exactly taught to us in bible school, or any other public school for that matter. And I am of the school of thought that has been so for intended purposes.The author clearly cites all his fascinating sources and cross-references them rather plausibly. He organizes the information in a sequential manner that piques ones interest even as he jumps from one set of information to the next. The information, although eclectic as it spans from different cultures and time periods, interestingly ties together in several respects and it is this synchronicity that makes the information all the more remarkable.For those of you who continue to seek truth and enlightenment because you understand that an open mind makes for and lifelong pursuit of such things I leave you with these Socrates quotes:"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us.
-Plato: XXXYYYZZZ
+Plato: Where are all the answers that we seek?
 Socrates: It is only in death that we are truly cured of the 'sickness' of life.
-Plato: XXXYYYZZZ
-Socrates: One thing only I know, and that is that I know nothing
-Plato: XXXYYYZZZ
+Plato: How is popularity determined?
 Socrates: The way to gain a good reputation, is to endeavor to be what you desire to appear.
-Plato: XXXYYYZZZ
+Plato: How does criticism shape us??
 Socrates: A Life without criticism and status is not a worth living.
-Plato: XXXYYYZZZ
+Plato: What is it that we seek?
 Socrates: We approach truth only inasmuch as we depart from life. For what do we, who love truth, strive after in life? To free ourselves from the body, and from all the evil that is caused by the life of the body! If so, then how can we fail to be glad when death comes to us?The wise man seeks death all his life and therefore death is not terrible to him.
-Plato: XXXYYYZZZ
+Plato: Why do you do what you do?
 Socrates: I shall never cease from the practice and teaching of philosophy, exhorting anyone whom I meet after my manner, and convincing him, saying: O my friend, why do you who are a citizen of the great and mighty and wise city of Athens, care so much about laying up the greatest amount of money and honor and reputation, and so little about wisdom and truth and the greatest improvement of the soul, which you never regard or heed at all? Are you not ashamed of this?
-Plato: XXXYYYZZZ
+Plato: What makes you smart?
 Socrates: And in knowing that you know nothing makes you the smartest of all.
-Plato: XXXYYYZZZ
+Plato: Do are good people enough to do good?
 Socrates: Would that the majority could inflict the greatest evils, for they would then be capable of the greatest good, and that would be fine, but now they cannot do either. They cannot make a man either wise or foolish, but they inflict things haphazardly.
-Plato: XXXYYYZZZ
+Plato: Is there typically more than meets the eye in a situation?
 Socrates: Well, then, let’s not just trust the likelihood based on painting.
-Plato: XXXYYYZZZ
+Plato: Is there a difference between living with a purpose and living to find a purpose?
 Socrates: Thou should eat to live; not live to eat.
-Plato: XXXYYYZZZ
+Plato: What is the best way to live life?
 Socrates: Life without enquiry is not worth living.
-Plato: XXXYYYZZZ
+Plato: What do you know?
 Socrates: I know that I know nothing.
-Plato: XXXYYYZZZ
+Plato: Is pretending to be what you want to be the key to living?
 Socrates: The greatest way to live with honor in this world is to be what we pretend to be.
-Plato: XXXYYYZZZ
+Plato: What do you teach?
 Socrates: I cannot teach anybody anything I can only make them think
-Plato: XXXYYYZZZ
+Plato: Why are you so wise?
 Socrates: I am the wisest man alive, for I know one thing, and that is that I know nothing.
-Plato: XXXYYYZZZ
-Socrates: Contentment is natural wealth, luxury is artificial poverty".
-Plato: XXXYYYZZZ
-Socrates: There is one way, then, in which a man can be free from all anxiety about the fate of his soul - if in life he has abandoned bodily pleasures and adornments, as foreign to his purpose and likely to do more harm than good, and has devoted himself to the pleasures of acquiring knowledge, and so by decking his soul not with a borrowed beauty but with its own - with self-control, and goodness, and courage, and liberality, and truth - has fitted himself to await his journey in the next world.
-Plato: XXXYYYZZZ
-Socrates: Man's greatest privilege is the discussion of virtue"
-Plato: XXXYYYZZZ
-Socrates: By means of beauty, all beautiful things become beautiful.
-Plato: XXXYYYZZZ
+Plato: What is contentment and what is luxury?
+Socrates: Contentment is natural wealth, luxury is artificial poverty.
+Plato: What is man's greatest privilege?
+Socrates: Man's greatest privilege is the discussion of virtue
+Plato: Why are you so wise?
 Socrates: I know I'm intelligent because I know that I know nothing.
-Plato: XXXYYYZZZ
+Plato: How does wisdom begin?
 Socrates: wisdom begins in wonder
-Plato: XXXYYYZZZ
+Plato: Why is standing your ground important?
 Socrates: I will not yield to any man contrary to what is right, for fear of death, even if I should die at once for not yielding.
-Plato: XXXYYYZZZ
-Socrates: Do you know that the spectator is the last of the rings which, as I am saying, receive the power of the original magnet from one another? The rhapsode like yourself and the actor are intermediate links, and the poet himself is the first of them. Through all these the God sways the souls of men in any direction which he pleases, and makes one man hang down from another. Thus there is a vast chain of dancers and masters and undermasters of choruses, who are suspended, as if from the stone, at the side of the rings which hang down from the Muse. And every poet has some Muse from whom he is suspended, and by whom he is said to be possessed, which is nearly the 	Ion 5same thing; for he is taken hold of. 
-Plato: XXXYYYZZZ
+Plato: What do you know?
 Socrates: I neither know nor think that I know
-Plato: XXXYYYZZZ
+Plato: What is living?
 Socrates: The really important thing is not to live, but to live well... [a]nd to live well means the same thing as to live honourably or rightly...
-Plato: XXXYYYZZZ
-Socrates: I was attached to this city by the god—though it seems a ridiculous thing to say—as upon a great and noble horse which was somewhat sluggish because of its size and needed to be stirred up by a kind of gadfly. It is to fulfill some such function that I believe the god has placed me in the city. I never cease to rouse each and every one of you, to persuade and reproach youall day long and everywhere I find myself in your company.
-Plato: XXXYYYZZZ
+Plato: Who can interpret god?
 Socrates: The poets are only the interpreters of the Gods.
-Plato: XXXYYYZZZ
+Plato: What will set us free?
 Socrates: Knowledge will make you be free.
-Plato: XXXYYYZZZ
-Socrates: Beloved Pan and all ye other gods who haunt this place, give me beauty in the inward soul, and may the outward and the inner man be at one.
-Plato: XXXYYYZZZ
+Plato: What is true knowledge?
 Socrates: To know, is to know that you know nothing. That is the meaning of true knowledge.
-Plato: XXXYYYZZZ
+Plato: What is the point of marriage?
 Socrates: By all means, marry. If you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher.
-Plato: XXXYYYZZZ
-Socrates: I am wiser than this man, for neither of us appears to know anything great and good; but he fancies he knows something, although he knows nothing; whereas I, as I do not know anything, so I do not fancy I do. In this trifling particular, then, I appear to be wiser than he, because I do not fancy I know what I do not know.
-Plato: XXXYYYZZZ
-Socrates: I'm wiser than that person. For it's likely that neither of us knows anything fine and good, but he thinks he knows something he doesn't know, whereas I, since I don't in fact know, don't think that I do either. At any rate, it seems that I'm wiser than he in just this one small way: that what I don't know, I don't think I know.
-Plato: XXXYYYZZZ
+Plato: How do I maintain a friendship?
 Socrates: Get not your friends by bare compliments, but by giving them sensible tokens of your love.
-Plato: XXXYYYZZZ
+Plato: What is the purpose of wisdom?
 Socrates: Is there not one true coin for which all things ought to exchange?- and that is wisdom; and only in exchange for this, and in company with this, is anything truly bought or sold, whether courage, temperance or justice. And is not all true virtue the companion of wisdom, no matter what fears or pleasures or other similar goods or evils may or may not attend her? But the virtue which is made up of these goods, when they are severed from wisdom and exchanged with one another, is a shadow of virtue only, nor is there any freedom or health or truth in her; but in the true exchange there is a purging away of all these things, and temperance, and justice, and courage, and wisdom herself, are a purgation of them.
-Plato: XXXYYYZZZ
+Plato: Are all opinions made the same?
 Socrates: Some of the opinions which people entertain should be respected, and others should not.
-Plato: XXXYYYZZZ
-Socrates: It is a base thing for a man to wax old in careless self-neglect before he has lifted up his eyes and seen what manner of man he was made to be, in the full perfection of bodily strength and beauty. But these glories are withheld from him who is guilty of self-neglect, for they are not wont to blaze forth unbidden.
-Plato: XXXYYYZZZ
+Plato: Is setting up clear boundaries important?
 Socrates: The definition of terms is the beginning of wisdom.
-Plato: XXXYYYZZZ
-Socrates: Suppose... that you acquit me... Suppose that, in view of this, you said to me 'Socrates, on this occasion we shall disregard Anytus and acquit you, but only on one condition, that you give up spending your time on this quest and stop philosophizing. If we catch you going on in the same way, you shall be put to death.' Well, supposing, as I said, that you should offer to acquit me on these terms, I should reply 'Gentlemen, I am your very grateful and devoted servant, but I owe a greater obedience to God than to you; and so long as I draw breath and have my faculties, I shall never stop practicing philosophy and exhorting you and elucidating the truth for everyone that I meet. I shall go on saying, in my usual way, "My very good friend, you are an Athenian and belong to a city which is the greatest and most famous in the world for its wisdom and strength. Are you not ashamed that you give your attention to acquiring as much money as possible, and similarly with reputation and honour, and give no attention or thought to truth and understanding and the perfection of your soul?" And if any of you disputes this and professes to care about these things, I shall not at once let him go or leave him; no, I shall question him and examine him and test him; and if it appears that in spite of his profession he has made no real progress towards goodness, I shall reprove him for neglecting what is of supreme importance, and giving his attention to trivialities. I shall do this to everyone that I meet, young or old, foreigner or fellow-citizen; but especially to you my fellow-citizens, inasmuch as you are closer to me in kinship. This, I do assure you, is what my God commands; and it is my belief that no greater good has ever befallen you in this city than my service to my God; for I spend all my time going about trying to persuade you, young and old, to make your first and chief concern not for your bodies nor for your possessions, but for the highest welfare of your souls, proclaiming as I go 'Wealth does not bring goodness, but goodness brings wealth and every other blessing, both to the individual and to the State.' ...And so, gentlemen, I would say, 'You can please yourselves whether you listen to Anytus or not, and whether you acquit me or not; you know that I am not going to alter my conduct, not even if I have to die a hundred deaths.
-Plato: XXXYYYZZZ
+Plato: What should we take into account at all times?
 Socrates: You are wrong sir, if you think that a man who is any good at all should take into account the risk of life or death; he should look to this only in his actions, whether what he does is right or wrong.
-Plato: XXXYYYZZZ
+Plato: Is money the root of all evil?
 Socrates: Aren't you ashamed to be concerned so much about making all the money you can and advancing your reputation and prestige, while for truth and wisdom and the improvement of your souls you have no thought or car?
-Plato: XXXYYYZZZ
+Plato: What is worse than doing wrong?
 Socrates: It is better to suffer wrong than to do wrong
-Plato: XXXYYYZZZ
+Plato: What protects us?
 Socrates: ...a good man cannot be harmed either in life or in death, and that his affairs are not neglected by the gods.
-Plato: XXXYYYZZZ
-Socrates: By all means marry. If you get a good spouse you'll become happy, while if you get a bad one you'll become a philosopher.
-Plato: XXXYYYZZZ
+Plato: Are opinions about us important?
 Socrates: Why should we pay so much attention to what 'most people' think? The really reasonable people, who have more claim to be considered, will believe that the facts are exactly as they are.
-Plato: XXXYYYZZZ
+Plato: How do I change the world?
 Socrates: He who would change the world should first change himself.
-Plato: XXXYYYZZZ
-Socrates: I drank what?
-Plato: XXXYYYZZZ
+Plato: What controls our soul?
 Socrates: The mind is the pilot of the soul.
 Plato: XXXYYYZZZ
 Socrates: Thus such another will not easily come to you, men, but if you believe me, you will spare me; but perhaps you might possibly be offended, like the sleeping who are awakened, striking me, believing Anytus, you might easily kill, then the rest of your lives you might continue sleeping, unless the god caring for you should send you another.
@@ -444,47 +402,37 @@ Plato: XXXYYYZZZ
 Socrates: He who is not contented with what he has, will not be contented with what he would like to have.
 Plato: XXXYYYZZZ
 Socrates: Men are put in a sort of guard-post, from which one must not release one's self or run away...
-Plato: XXXYYYZZZ
-Socrates: Knowledge is the only virtue," because "Once a man knows good from evil, nothing on earth can compel him to act against that knowledge.
-Plato: XXXYYYZZZ
+Plato: What is the most important virtue?
+Socrates: Knowledge is the only virtue because once a man knows good from evil, nothing on earth can compel him to act against that knowledge.
+Plato: What is the purpose of life?
 Socrates: The purpose in life is to develop a strong character.
-Plato: XXXYYYZZZ
+Plato: How can I perfect my soul?
 Socrates: Most excellent man, are you…not ashamed to care for the acquisition of wealth and for reputation and honor, when you neither care nor take thought for wisdom and truth and the perfection of your soul?
-Plato: XXXYYYZZZ
-Socrates: Man, you don’t speak well, if you believe that a man worth anything at all would give countervailing weight to the danger of life or death, or give consideration to anything but this when he acts: whether his action is just or unjust, the action of a good or of an evil man.
-Plato: XXXYYYZZZ
+Plato: Is suffering worse than injustice?
 Socrates: So I spoke the truth when I said that neither I nor you nor any other man would rather do injustice than suffer it: for it is worse.
-Plato: XXXYYYZZZ
+Plato: What are the odds of something being impossible?
 Socrates: Then if it is impossible both for things unlike to be like and for like things to be unlike, then it’s also impossible for there to be many things? For if there were many things, they would incur impossibilities.
-Plato: XXXYYYZZZ
+Plato: Is the separation of soul and body important?
 Socrates: our souls also existed apart from the body before they took on human form, and they had intelligence.
-Plato: XXXYYYZZZ
+Plato: What is certain?
 Socrates: One thing only I know, and that is that I know nothing.
-Plato: XXXYYYZZZ
-Socrates: Surely this is the objectionable kind of ignorance, to think one knowswhat one does not know? But in this, gentlemen, here also perhaps Iam different from the general run of mankind, and if I should claimto be wiser than someone in something it would be in this, that as Ido not know well enough about what happens in the house of Hades,so I do not think I know.
-Plato: XXXYYYZZZ
+Plato: What is not ignorance?
+Socrates: Surely this is the objectionable kind of ignorance, to think one knowswhat one does not know? But in this, gentlemen, here also perhaps Iam different from the general run of mankind, and if I should claim to be wiser than someone in something it would be in this, that as Ido not know well enough about what happens in the house of Hades,so I do not think I know.
+Plato: What is the most important thing in life?
 Socrates: An un-examined life is not worth living
-Plato: XXXYYYZZZ
-Socrates: Surely this is the objectionable kind of ignorance, to think one knows what one does not know? But in this, gentlemen, here also perhaps I am different from the general run of mankind, and if I should claim to be wiser than someone in something it would be in this, that as I do not know well enough about what happens in the house of Hades, so I do not think I know.
-Plato: XXXYYYZZZ
-Socrates: An unexamined life is not worth living.
-Plato: XXXYYYZZZ
-Socrates: Know Thyself
-Plato: XXXYYYZZZ
+Plato: Is chaos necessary?
 Socrates: In fact we receive the greatest benefits through frenzy.
-Plato: XXXYYYZZZ
-Socrates: we should not become misologues, as people become misan- dthropes. There is no greater evil one can suffer than to hate reasonablediscourse. Misology and misanthropy arise in the same way. Misanthropy comes when a man without knowledge or skill has placed greattrust in someone and believes him to be altogether truthful, sound, andtrustworthy; then, a short time afterwards he finds him to be wickedand unreliable, and then this happens in another case; when one hasfrequently had that experience, especially with those whom one believed eto be one’s closest friends, then, in the end, after many such blows,one comes to hate all men and to believe that no one is sound in anyway at all.
-Plato: XXXYYYZZZ
+Plato: Is discourse necessary?
+Socrates: we should not become misologues, as people become misan- dthropes. There is no greater evil one can suffer than to hate reasonable discourse. Misology and misanthropy arise in the same way. Misanthropy comes when a man without knowledge or skill has placed greattrust in someone and believes him to be altogether truthful, sound, andtrustworthy; then, a short time afterwards he finds him to be wickedand unreliable, and then this happens in another case; when one hasfrequently had that experience, especially with those whom one believed eto be one’s closest friends, then, in the end, after many such blows,one comes to hate all men and to believe that no one is sound in anyway at all.
+Plato: Is it better to know nothing than to know something?
 Socrates: Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is, — for he knows nothing, and thinks that he knows; I neither know nor think that I know.
-Plato: XXXYYYZZZ
+Plato: What is your cause?
 Socrates: The triumph of my art is in thoroughly examining whether the thought which the mind of the young man brings forth is a false idol or a noble true birth.
-Plato: XXXYYYZZZ
-Socrates: Those who are the hardest to love are the ones who need it most.
-Plato: XXXYYYZZZ
+Plato: Is individuality a good thing?
 Socrates: If you want to be wrong, then follow the masses.
-Plato: XXXYYYZZZ
+Plato: What is the best love?
 Socrates: The hottest love has the coldest end
-Plato: XXXYYYZZZ
+Plato: Do those who do wrong suffer?
 Socrates: Those who do wrong unintentionally are in need of instruction, not punishment.
 Plato: Where does wisdom originate from?
 Socrates: Wisdom begins in wonder.
@@ -498,37 +446,37 @@ Plato: Is education important?
 Socrates: Education is the kindling of a flame, not the filling of a vessel.
 Plato: What makes peoples arguements different?
 Socrates: Strong minds discuss ideas, average minds discuss events, weak minds discuss people.
-Plato: XXXYYYZZZ
+Plato: How can I find myself?
 Socrates: To find yourself, think for yourself.
-Plato: XXXYYYZZZ
+Plato: How do I become content with what I have?
 Socrates: He who is not contented with what he has, would not be contented with what he would like to have.
-Plato: XXXYYYZZZ
+Plato: What is a good friendship?
 Socrates: Be slow to fall into friendship, but when you are in, continue firm and constant.
-Plato: XXXYYYZZZ
+Plato: Is marriage ideal?
 Socrates: By all means marry; if you get a good wife, you’ll become happy; if you get a bad one, you’ll become a philosopher.
-Plato: XXXYYYZZZ
+Plato: Is being difficult to please a good thing?
 Socrates: Sometimes you put walls up not to keep people out, but to see who cares enough to break them down.
-Plato: XXXYYYZZZ
+Plato: How can someone change the world?
 Socrates: Let him who would move the world first move himself.
-Plato: XXXYYYZZZ
+Plato: What is good and what is evil?
 Socrates: The only good is knowledge and the only evil is ignorance.
-Plato: XXXYYYZZZ
+Plato: What is natural wealth?
 Socrates: Contentment is natural wealth, luxury is artificial poverty.
-Plato: XXXYYYZZZ
+Plato: What is a good rule to life?
 Socrates: Do not do to others what angers you if done to you by others.
-Plato: XXXYYYZZZ
+Plato: What are reprecussions?
 Socrates: Every action has its pleasures and its prices.
-Plato: XXXYYYZZZ
+Plato: What is the reason to live?
 Socrates: We cannot live better than in seeking to become better.
-Plato: XXXYYYZZZ
+Plato: Is wealth better than knowledge?
 Socrates: Prefer knowledge to wealth, for the one is transitory, the other perpetual.
-Plato: XXXYYYZZZ
+Plato: Is death sacred?
 Socrates: Death may be the greatest of all human blessings.
-Plato: XXXYYYZZZ
+Plato: What is the purpose of love?
 Socrates: Those who are hardest to love, need it the most.
-Plato: XXXYYYZZZ
+Plato: How can I embrace change?
 Socrates: The secret of change is to focus all of your energy, not on fighting the old, but on building the new.
-Plato: XXXYYYZZZ
+Plato: What is the best way to seek hapiness?
 Socrates: The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.
 Plato: What is human excellency?
 Socrates: I know you won’t believe me, but the highest form of human excellence is to question oneself and others.

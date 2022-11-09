@@ -15,10 +15,6 @@ class data_set_encoder(JSONEncoder):
         
         
     
-data_s= []
-  
-  
-  
 def parse_file(path):
     
     ls = []
