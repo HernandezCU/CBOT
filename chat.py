@@ -47,3 +47,7 @@ def chat():
 
 print(Fore.YELLOW + "Start messaging with the bot (type quit to stop)!" + Style.RESET_ALL)
 chat()
+
+#TODO:
+# 1. Add more intents to the json file
+# 2. Get quotes from Dante's Inferno and add them to the json file
