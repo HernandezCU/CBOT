@@ -7,10 +7,9 @@ import colorama
 colorama.init()
 from colorama import Fore, Style, Back
 
-import random
 import pickle
 
-with open("intents.json") as file:
+with open("new_intents.json") as file:
     data = json.load(file)
 
 
@@ -38,12 +37,13 @@ def chat():
         result = model.predict(tf.keras.preprocessing.sequence.pad_sequences(tokenizer.texts_to_sequences([inp]),
                                              truncating='post', maxlen=max_len))
         tag = lbl_encoder.inverse_transform([np.argmax(result)])
-
         for i in data['intents']:
             if i['tag'] == tag:
+                print("TAG DETECTED: " + str(tag))
                 print(Fore.GREEN + "ChatBot:" + Style.RESET_ALL , np.random.choice(i['responses']))
+                
 
-        # print(Fore.GREEN + "ChatBot:" + Style.RESET_ALL,random.choice(responses))
+        #print(Fore.GREEN + "ChatBot:" + Style.RESET_ALL,random.choice(responses))
 
 print(Fore.YELLOW + "Start messaging with the bot (type quit to stop)!" + Style.RESET_ALL)
 chat()

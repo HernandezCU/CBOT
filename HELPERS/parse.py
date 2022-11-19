@@ -38,7 +38,7 @@ def parse_file(path):
 
 if __name__ == "__main__":
     with open("n_intents.json", "a") as file:
-        json.dump(parse_file("Dataset/INTERACTIONS2.txt"), file, indent=4, cls=data_set_encoder)
+        json.dump(parse_file("Dataset/INTERACTIONS.txt"), file, indent=4, cls=data_set_encoder)
     
     
     
