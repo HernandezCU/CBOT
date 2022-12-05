@@ -48,5 +48,5 @@ def query(q: str):
             resp = np.random.choice(i['responses'])
     return JSONResponse({"tag": t, "response": resp})
 
-if __name__ == "__main__":
-    uvicorn.run("chat:app", host="localhost", port=8000, reload=True)
+# if __name__ == "__main__":
+#     uvicorn.run("chat:app", host="localhost", port=8000, reload=True)
