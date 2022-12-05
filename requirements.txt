@@ -3,4 +3,6 @@ nltk
 colorama
 numpy
 scikit_learn
-Flask
+fastapi
+jinja2
+uvicorn

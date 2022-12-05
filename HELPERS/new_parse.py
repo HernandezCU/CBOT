@@ -33,13 +33,16 @@ def parse_file(path):
     
     dataS = [data_set(tags[i], p[i], r[i]) for i in range(len(tags))]
     
-    return dataS
+    return tags
 
 
 if __name__ == "__main__":
-    #parse_file("n_intents.json")
-    with open("new_intents.json", "a") as file:
-        json.dump(parse_file("n_intents.json"), file, indent=4, cls=data_set_encoder)
+    x = parse_file("/Users/carloshernandez/CBOT/HELPERS/n_intents.json")
+    print(len(x))
+    
+    print(x)
+    # with open("new_intents.json", "a") as file:
+    #     json.dump(parse_file("n_intents.json"), file, indent=4, cls=data_set_encoder)
     
     
     
