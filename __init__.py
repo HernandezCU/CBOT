@@ -10,16 +10,16 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = "CBOT@1234"
 
 
-with open("new_intents.json") as file:
+with open("/root/CBOT/new_intents.json") as file:
     data = json.load(file)
 
 
-model = tf.keras.models.load_model('chat_model')
+model = tf.keras.models.load_model('/root/CBOT/chat_model')
 
-with open('tokenizer.pickle', 'rb') as handle:
+with open('/root/CBOT/tokenizer.pickle', 'rb') as handle:
     tokenizer = pickle.load(handle)
 
-with open('label_encoder.pickle', 'rb') as enc:
+with open('/root/CBOT/label_encoder.pickle', 'rb') as enc:
     lbl_encoder = pickle.load(enc)
 
 max_len = 20
