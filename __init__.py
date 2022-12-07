@@ -39,14 +39,14 @@ def get_tags():
     return jsonify({"tags": tags})
 
 
-@app.route("/tags/responses")
+@app.route("/tags/patterns")
 def get_responses():
     responses = []
     r = request.args.get('tag')
     for i in data['intents']:
         if i['tag'] == r:
-            responses.append(i['responses'])
-    return jsonify({"responses": responses})
+            responses.append(i['patterns'])
+    return jsonify({"patterns": responses})
 
 
 @app.route('/query', methods=['GET', 'POST'])
