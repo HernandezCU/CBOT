@@ -86,49 +86,27 @@
 							<button id="help_btn" class="question">?</button>
 						</div>
 						<div id="messages" class="card-body msg_card_body">
-							<div class="d-flex justify-content-end mb-4">
-								<div class="msg_cotainer_send">
-									Hi there, I'm Socrates! What would you like to know about me?
-									<span class="msg_time_send">8:40 AM, Today</span>
-								</div>
-								<div class="img_cont_msg">
-									<img src="/assets/img/DAN.jpeg" class="rounded-circle user_img_msg">
-								</div>
-							</div>
-							<div class="d-flex justify-content-start mb-4">
-								<div class="img_cont_msg">
-									<img src="/assets/img/SOC.jpeg" class="rounded-circle user_img_msg">
-								</div>
-								<div class="msg_cotainer">
-									Hello, who are you?
-									<span class="msg_time">8:45 AM, Today</span>
-								</div>
-							</div>
+
 						</div>
-						<div class="card-footer" >
-							<table style="width: 100%;">
+						<div class="card-footer" id="footer">
+			
+							<table id="main_options" style="width: 100%;">
 								<tr>
 									<td>
-										<button id="send" class="b choices">Send</button>
+										<button onclick="show('text');" class="b choices">Ask a question</button>
 									</td>
 									<td>
-										<button id="clear" class="b choices">Clear</button>
-									</td>
-								</tr>
-								<tr>
-									<td>
-										<button id="start" class="b choices">Start</button>
-									</td>
-									<td>
-										<button id="stop" class="b choices">Stop</button>
+										<button onclick="show('topics')" class="b choices">Ask about a Topic</button>
 									</td>
 								</tr>
 							</table>
+
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 	<script src="/assets/js/main.js"></script>
 	</body>
 </html>

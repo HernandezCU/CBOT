@@ -10,7 +10,7 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = "CBOT@1234"
 
 
-with open("new_intents.json") as file:
+with open("/root/CBOT/new_intents.json") as file:
     data = json.load(file)
 
 

@@ -42,7 +42,7 @@ function formatAMPM() {
 }
 
 
-function add_to_screen(message, type){
+function display_message(message, type){
     var messages_div = document.getElementById("messages");
     var c = document.createElement("div");
     var today = new Date();
@@ -51,9 +51,77 @@ function add_to_screen(message, type){
         c.className = "d-flex justify-content-end mb-4";
         c.innerHTML = '<div class="msg_cotainer_send">' + message + '<span class="msg_time_send">' + formatAMPM() + ", Today</span></div><div class='img_cont_msg'><img src='/assets/img/DAN.jpeg' class='rounded-circle user_img_msg'></div";
         messages_div.appendChild(c);
+        scrollToBottom(document.getElementById('messages'));
+
     } else {
         c.className = "d-flex justify-content-start mb-4";
         c.innerHTML = '<div class="img_cont_msg"><img src="/assets/img/SOC.jpeg" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + message + '<span class="msg_time">' + formatAMPM() + ", Today</span></div>";
         messages_div.appendChild(c);
+        scrollToBottom(document.getElementById('messages'));
+
     }	
+}
+
+
+const scrollToBottom = (node) => {
+    const theElement = document.getElementById('messages');
+	node.scrollTop = node.scrollHeight;
+}
+
+
+function show(mode)
+{
+    f = document.getElementById("footer");
+    f.innerHTML = "";
+    if (mode === "text"){
+        f.innerHTML = `<div class="input-group">
+        <div class="input-group-append">
+            <span class="input-group-text attach_btn"><i class="fas fa-paperclip"></i></span>
+        </div>
+        <textarea id="message" name="" class="form-control type_msg" placeholder="Type your message..."></textarea>
+        <div class="input-group-append">
+            <span onclick="send_message()" class="input-group-text send_btn"><i class="fas fa-location-arrow"></i></span>
+        </div>
+    </div>`;
+        
+    }else if (mode === "topics"){
+        f.innerHTML = `<table id='topics' style='width: 100%;'><tr><td><button onclick="send_topic('send')" id='send' class='b choices'>Send</button></td><td><button id='clear' class='b choices'>Clear</button></td></tr> <tr><td><button id='start' class='b choices'>Start</button></td><td><button id='stop' class='b choices'>Stop</button></td></tr></table>`;
+    }
+}
+
+function send_message()
+{
+    var message = document.getElementById("message").value;
+    display_message(message, "send");
+    send_query(message);
+    document.getElementById("message").value = "";
+}
+
+function send_topic(id)
+{
+    var message = document.getElementById(id).value;
+    display_message(message, "send");
+}
+
+function send_query(query)
+{
+    const sq = "http://aisocrates.xyz/query?q=" + encodeURIComponent(query)
+
+    axios.get(sq)
+    .then(response => {
+        // access parsed JSON response data using response.data field
+        data = response.data
+        display_message("Intent Detected: " + data.tag, "receive")
+        display_message(data.response, "receive")
+    })
+    .catch(error => {
+        if (error.response) {
+            //get HTTP error code
+            console.log(error.reponse.status)
+        } else {
+            console.log(error.message)
+        }
+    })
+
+
 }
