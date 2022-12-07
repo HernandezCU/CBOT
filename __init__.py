@@ -31,6 +31,24 @@ def home():
 	return render_template("index.html")
 
 
+@app.route("/tags")
+def get_tags():
+    tags = []
+    for i in data['intents']:
+        tags.append(i['tag'])
+    return jsonify({"tags": tags})
+
+
+@app.route("/tags/responses")
+def get_responses():
+    responses = []
+    r = request.args.get('tag')
+    for i in data['intents']:
+        if i['tag'] == r:
+            responses.append(i['responses'])
+    return jsonify({"responses": responses})
+
+
 @app.route('/query', methods=['GET', 'POST'])
 def query():
     q = request.args.get('q')
