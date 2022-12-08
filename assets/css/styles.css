@@ -68,6 +68,8 @@ background-color: rgba(0,0,0,0.3) !important;
     background-color: rgba(0,0,0,0.3);
     border-radius: 0 0 15px 15px !important;
     border-top: 0 !important;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .container{
@@ -176,11 +178,13 @@ background-color: rgba(0,0,0,0.3) !important;
 }
 
 .msg_cotainer_send{
+    text-align: center;
     margin-top: auto;
     margin-bottom: auto;
     margin-right: 10px;
     border-radius: 25px;
-    background-color: #78e08f;
+    background-color: #6f66e0;
+    min-width: 17.5%;
     padding: 10px;
     position: relative;
 }
@@ -206,11 +210,12 @@ background-color: rgba(0,0,0,0.3) !important;
     display: flex;
     justify-content: space-between;
 }
-.question{
+
+.top_button{
     cursor: pointer;
     background-color: #333;
     color: white;
-    width: 10%;
+    width: auto;
     outline: 0;
     border-radius: 20px;
     display:inline-block;
@@ -228,7 +233,7 @@ background-color: rgba(0,0,0,0.3) !important;
     line-height:1.5;
 }
 
-.question:hover, .question:focus, .question:active{
+.top_button:hover, .top_button:focus, .top_button:active{
     background-color: #555;
     color: white;
 }
@@ -236,25 +241,27 @@ background-color: rgba(0,0,0,0.3) !important;
 .choices{
     cursor: pointer;
     outline: 0;
-    color: #333;
+    color: #FFFFFF;
     height: 100%;
     width:100%;
     border-radius: 30px; 
-    border: 1px solid #78e08f;
-    background-color: #78e08f; 
-    border-color: #78e08f;
+    border: 1px solid #6f66e0;
+    background-color: #6f66e0; 
+    border-color: #6f66e0;
 }
+
 .choices:hover, .b:hover{
-    color: #111;
-    background-color: #55a166;
-    border-color: #55a166;
+    color: #FFFFFF;
+    background-color: #645cca;
+    border-color: #645cca;
 }
 
 .choices:focus, .b:focus{
+    box-shadow:0 0 0 3px rgba(112,102,224,.5);
     outline: 0;
-    color: #111;
-    background-color: #55a166;
-    border-color: #55a166;
+    color: #FFFFFF;
+    background-color: #645cca;
+    border-color: #645cca;
 }
 
 .choices:active, .b:active {
@@ -342,4 +349,12 @@ background-color: rgba(0,0,0,0.3) !important;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+}
+
+.box {
+    display: block;
   }
+  
+.box:nth-child(2n+1) {
+    clear: left;
+}

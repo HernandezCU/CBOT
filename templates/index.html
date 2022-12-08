@@ -12,36 +12,6 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.js"></script>
 	</head>
 	<body>
-		<div id="Modal1" class="modal">
-			<div class="modal-content center">
-				<span id="close1" class="close">&times;</span>
-					<h2 class="modal_inner_heading">Historical Chat With a Hint of Modern Aspects</h2>
-					<br>
-					<p class="modal_inner_description">
-						The following example is an approximation of what a conversation between Socrates and Dante (You) 
-						would have looked like!
-						<br><br> 
-						The chat is a combination of modern and historical aspects, 
-						The chat bot was trained using >1000 lines of dialogue and is capable of responding to a variety of intents.
-						The premise of the bot is to have a conversation with Socrates, and to learn about his life and philosophy. It
-						manages to do this by using a variety of intents, and by using a variety of responses to each intent. Each data point (line of dialogue)
-						was classified and given a specific subject which are then converted to intents. 
-						<br><br>
-						To interact with 'Socrates' simply choose a subject from the menu and the bot will respond accordingly.
-					</p>
-			</div>
-		</div>
-
-		<div id="Modal2" class="modal">
-			<div class="modal-content center">
-				<span id="close2" class="close">&times;</span>
-					<h2 class="modal_inner_heading">Help</h2>
-					<br>
-					<p class="modal_inner_description">
-						This is helpful modal!
-					</p>
-			</div>
-		</div>
 
 		<div class="container-fluid h-100">
 			<div class="row justify-content-center h-100">
@@ -74,6 +44,13 @@
 				<div class="col-md-8 col-xl-6 chat">
 					<div class="card">
 						<div class="card-header msg_head">
+							<button id="back_btn" onclick="home()" class="top_button">
+								<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-return-left" viewBox="0 0 16 16">
+									<path fill-rule="evenodd" d="M14.5 1.5a.5.5 0 0 1 .5.5v4.8a2.5 2.5 0 0 1-2.5 2.5H2.707l3.347 3.346a.5.5 0 0 1-.708.708l-4.2-4.2a.5.5 0 0 1 0-.708l4-4a.5.5 0 1 1 .708.708L2.707 8.3H12.5A1.5 1.5 0 0 0 14 6.8V2a.5.5 0 0 1 .5-.5z"/>
+								  </svg>
+								  Back
+							</button>
+							
 							<div class="d-flex bd-highlight">
 								<div class="img_cont">
 									<img src="/assets/img/SOC.jpeg" class="rounded-circle user_img">
@@ -83,29 +60,23 @@
 									<span>Socrates</span>
 								</div>
 							</div>
-							<button id="help_btn" class="question">?</button>
+
+							<button id="help_btn" onclick="create_alert('help')" class="top_button">Help ?</button>
+							
 						</div>
 						<div id="messages" class="card-body msg_card_body">
 
 						</div>
 						<div class="card-footer" id="footer">
-			
-							<table id="main_options" style="width: 100%;">
-								<tr>
-									<td>
-										<button onclick="show('text');" class="b choices">Ask a question</button>
-									</td>
-									<td>
-										<button onclick="show('topics')" class="b choices">Ask about a Topic</button>
-									</td>
-								</tr>
-							</table>
-
+							<button style="width: 45%;" onclick="show('text');" class="swal2-confirm swal2-styled box">Ask a question</button>
+							<button style="width: 45%;" onclick="show('topics')" class="swal2-confirm swal2-styled box">Ask about a Topic</button>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+	<script src="/sweetalert2/dist/sweetalert2.min.js"></script>
+	<link rel="stylesheet" href="/@sweetalert2/themes/dark/dark.min.css">
 	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 	<script src="/assets/js/main.js"></script>
 	</body>
