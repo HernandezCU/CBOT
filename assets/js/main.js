@@ -101,12 +101,28 @@ function show(mode)
         
     }else if (mode === "topics"){    
         var tgs = cap();    
-        f.innerHTML = `
-                <button onclick="send_topic('` + curr_tags[0] + `')" class='swal2-confirm swal2-styled box' style="width: 25%;">` + tgs[0] +`</button>
-                <button onclick="send_topic('` + curr_tags[1] + `')" class='swal2-confirm swal2-styled box' style="width: 25%;">` + tgs[1] +`</button>
+        f.style = "align: center;";
+        if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+            f.innerHTML = `<div style="width: 50%; align: center;">
+                <button onclick="send_topic('` + curr_tags[0] + `')" class='swal2-confirm swal2-styled box' style="width: 90%;">` + tgs[0] +`</button>
+                <button onclick="send_topic('` + curr_tags[1] + `')" class='swal2-confirm swal2-styled box' style="width: 90%;">` + tgs[1] +`</button>
+                </div>
                 <br><br>
-                <button onclick="send_topic('` + curr_tags[2] + `')" class='swal2-confirm swal2-styled box' style="width: 25%;">` + tgs[2] +`</button>
-                <button onclick="send_topic('` + curr_tags[3] + `')" class='swal2-confirm swal2-styled box' style="width: 25%;">` + tgs[3] +`</button>`;
+                <div style="width: 50%; align: center;">
+                <button onclick="send_topic('` + curr_tags[2] + `')" class='swal2-confirm swal2-styled box' style="width: 90%;">` + tgs[2] +`</button>
+                <button onclick="send_topic('` + curr_tags[3] + `')" class='swal2-confirm swal2-styled box' style="width: 90%;">` + tgs[3] +`</button></div>`;
+            console.log("mobile device");
+          }else{
+            f.innerHTML = `
+            <button onclick="send_topic('` + curr_tags[0] + `')" class='swal2-confirm swal2-styled box' style="width: 90%;">` + tgs[0] +`</button>
+            <button onclick="send_topic('` + curr_tags[1] + `')" class='swal2-confirm swal2-styled box' style="width: 90%;">` + tgs[1] +`</button>
+            <button onclick="send_topic('` + curr_tags[2] + `')" class='swal2-confirm swal2-styled box' style="width: 90%;">` + tgs[2] +`</button>
+            <button onclick="send_topic('` + curr_tags[3] + `')" class='swal2-confirm swal2-styled box' style="width: 90%;">` + tgs[3] +`</button>`;
+        
+            console.log("not mobile device");
+          }
+
+        
     }
 }
 
@@ -203,6 +219,7 @@ function check_browser()
 {
     if (navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/BlackBerry/i) || navigator.userAgent.match(/Windows Phone/i)) 
     {
+        console.log(navigator.userAgent);
         Swal.fire({
             icon: 'error',
             title: 'Oops...',
