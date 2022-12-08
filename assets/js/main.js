@@ -102,11 +102,11 @@ function show(mode)
     }else if (mode === "topics"){    
         var tgs = cap();    
         f.innerHTML = `
-                <button onclick="send_topic('` + curr_tags[0] + `')" class='swal2-confirm swal2-styled box' style="width: 45%;">` + tgs[0] +`</button>
-                <button onclick="send_topic('` + curr_tags[1] + `')" class='swal2-confirm swal2-styled box' style="width: 45%;">` + tgs[1] +`</button>
+                <button onclick="send_topic('` + curr_tags[0] + `')" class='swal2-confirm swal2-styled box' style="width: 25%;">` + tgs[0] +`</button>
+                <button onclick="send_topic('` + curr_tags[1] + `')" class='swal2-confirm swal2-styled box' style="width: 25%;">` + tgs[1] +`</button>
                 <br><br>
-                <button onclick="send_topic('` + curr_tags[2] + `')" class='swal2-confirm swal2-styled box' style="width: 45%;">` + tgs[2] +`</button>
-                <button onclick="send_topic('` + curr_tags[3] + `')" class='swal2-confirm swal2-styled box' style="width: 45%;">` + tgs[3] +`</button>`;
+                <button onclick="send_topic('` + curr_tags[2] + `')" class='swal2-confirm swal2-styled box' style="width: 25%;">` + tgs[2] +`</button>
+                <button onclick="send_topic('` + curr_tags[3] + `')" class='swal2-confirm swal2-styled box' style="width: 25%;">` + tgs[3] +`</button>`;
     }
 }
 
