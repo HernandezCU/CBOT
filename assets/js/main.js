@@ -5,7 +5,7 @@ var curr_tags = [];
 
 window.addEventListener("load", (event) => {
 	var initial_text = `<p style="text-align: left;">The purpose of this interactive tool is to help you understand what a conversation with Socrates might have looked like. <br><br>Remember you are roleplaying as Dante so try to keep your responses as close to his as possible. <br><br>If you unsure about how to interact with the ML Model you can click the help button to get some help.<br><br> Enjoy!</p>`;
-
+	check_browser();
 	Swal.fire({
 		icon: "info",
 		title: "Welcome to AISocrates",
@@ -106,6 +106,7 @@ function show(mode) {
 				navigator.userAgent
 			)
 		) {
+
 			f.innerHTML =
 				`<div style="width: 50%; align: center;">
                 <button onclick="send_topic('` +
@@ -262,12 +263,7 @@ function check_browser() {
 		navigator.userAgent.match(/BlackBerry/i) ||
 		navigator.userAgent.match(/Windows Phone/i)
 	) {
-		console.log(navigator.userAgent);
-		Swal.fire({
-			icon: "error",
-			title: "Oops...",
-			text: "This website is not supported on mobile devices!",
-			footer: "",
-		});
+		console.log("mobile device");
+		document.getElementById("contacts").style = "display: none;";
 	}
 }
