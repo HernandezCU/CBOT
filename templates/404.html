@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <title>You are lost.</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="/assets/css/nf.css">
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+        <link rel="stylesheet" href="/@sweetalert2/themes/dark/dark.min.css">
+        <script src="/assets/js/stars.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.js"></script>
+    </head>
+
+    <body id="main" class="black">
+        <div id="space" class="main"></div>
+        <div class="container shadow" style="z-index: 1000;">
+            <div class="min_container" style="height: 100%; width: 100%;">
+                <div style="display: flex; justify-content: center;">
+                    <img style="width: 45%; height: 75%;" src="/assets/img/SOC-TSP.png" class="img-fluid" alt="soc">
+                </div>
+                <h1 class="heading">404</h1>
+                <br>
+                <p class="sub">Not Found.</p>
+                <p class="sub">You are lost.</p>
+                <p class="sub">I cannot help you.</p>
+                <div style="display: flex; justify-content: center; height: 10%;">
+                    <br>
+                    <button class="swal2-confirm swal2-styled" style="width:80%;" onclick="window.location.href='/'">Athenian Roads Take Me Home</button>
+                </div>
+            </div>
+        </div>
+    </body>
+
+    <script>
+        function randomNumber(min, max) {
+            return Math.floor(Math.random() * (max - min + 1)) + min
+        }
+        
+        const STAR_COUNT = 150
+        let result = ""
+        for(let i = 0; i < STAR_COUNT; i++){
+            result += `${randomNumber(-50, 50)}vw ${randomNumber(-50, 50)}vh ${randomNumber(0, 3)}px ${randomNumber(0, 3)}px #fff,`
+        }
+
+        document.getElementById("space").style.boxShadow = result.substring(0, result.length - 1)
+    </script>
+</html>

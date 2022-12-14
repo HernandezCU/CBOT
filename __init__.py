@@ -68,6 +68,11 @@ def query():
 @app.route('/<path:path>')
 def send_report(path):
     return send_from_directory("", path)
+
+
+@app.errorhandler(404)
+def not_found(e):
+  return render_template("404.html")
    
     
 if __name__ == "__main__":
