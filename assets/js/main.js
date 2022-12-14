@@ -3,6 +3,8 @@ var help_btn = document.getElementById("help_btn");
 var r_tags;
 var curr_tags = [];
 
+var conversation = [];
+
 window.addEventListener("load", (event) => {
 	var initial_text = `<p style="text-align: left;">The purpose of this interactive tool is to help you understand what a conversation with Socrates might have looked like. <br><br>Remember you are roleplaying as Dante so try to keep your responses as close to his as possible. <br><br>If you unsure about how to interact with the ML Model you can click the help button to get some help.<br><br> Enjoy!</p>`;
 	check_browser();
@@ -90,8 +92,8 @@ function show(mode) {
 	f.innerHTML = "";
 	if (mode === "text") {
 		f.innerHTML = `<div class="input-group">
-        <div class="input-group-append" onclick="create_alert('not_supported')">
-            <span class="input-group-text attach_btn"><i class="fas fa-paperclip"></i></span>
+        <div class="input-group-append" onclick="download()">
+            <span class="input-group-text attach_btn"><i class="fas fa-file-download"></i></span>
         </div>
         <textarea id="message" name="" class="form-control type_msg" placeholder="Type your message..."></textarea>
         <div class="input-group-append">
@@ -178,6 +180,8 @@ function cap() {
 
 function send_message() {
 	var message = document.getElementById("message").value;
+	conversation.push(message);
+	conversation.push("\n");
 	display_message(message, "send");
 	send_query(message);
 	document.getElementById("message").value = "";
@@ -197,6 +201,8 @@ function send_topic(tpc) {
 				data.patterns[0][
 					Math.floor(Math.random() * data.patterns[0].length)
 				];
+			conversation.push(c_q);
+			conversation.push("\n");
 			display_message(c_q, "send");
 			send_query(c_q);
 		})
@@ -243,6 +249,8 @@ function send_query(query) {
 			data = response.data;
 			display_message("Intent Detected: " + data.tag, "receive");
 			display_message(data.response, "receive");
+			conversation.push(data.response);
+			conversation.push("\n");
 		})
 		.catch((error) => {
 			if (error.response) {
@@ -267,3 +275,18 @@ function check_browser() {
 		document.getElementById("contacts").style = "display: none;";
 	}
 }
+
+function download() {
+	var filename = "conversation.txt";
+	var text = conversation.join(",");
+	var element = document.createElement('a');
+	element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+	element.setAttribute('download', filename);
+  
+	element.style.display = 'none';
+	document.body.appendChild(element);
+  
+	element.click();
+  
+	document.body.removeChild(element);
+  }
